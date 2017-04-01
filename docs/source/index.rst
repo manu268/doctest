@@ -1,9 +1,9 @@
 .. doctest documentation master file, created by
-   sphinx-quickstart on Sat Apr  1 13:22:25 2017.
+   sphinx-quickstart on Sat Apr  1 17:53:30 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation Documents
+Welcome to doctest's documentation!
 ===================================
 
 .. toctree::
@@ -11,10 +11,13 @@ Documentation Documents
    :caption: Contents:
 
 
-Chapter1
-===========
-    print 'hello'
-    >>hello
+
+Modules
+===========================
+.. automodule:: sphinx
+   :members:
+   :undoc-members:
+
 
 Indices and tables
 ==================
@@ -22,3 +25,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
