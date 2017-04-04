@@ -72,7 +72,7 @@ This is a heading
    - It includes this bullet list.
 
 
-.. code: Python
+.. code-block:: Python
    def hello()
       print "hello"
       
