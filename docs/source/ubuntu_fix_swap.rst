@@ -16,7 +16,7 @@ This is a heading
    This is the second line of the first paragraph.
 
    #. The note contains all indented body elements
-     following.
+   following.
    #. It includes this bullet list.
    
 .. warning:: This is a note admonition.
