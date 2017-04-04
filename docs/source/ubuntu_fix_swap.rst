@@ -58,7 +58,7 @@ This is a heading
      following.
    - It includes this bullet list.
    
-.. note:: 
+.. danger:: 
    This is a note admonition.
    This is the second line of the first paragraph.
 
