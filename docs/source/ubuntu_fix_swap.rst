@@ -4,8 +4,9 @@ This is a heading
 =================
 *How to fix long boot time on ubuntu after moving swap partition?*::
 
-.. danger:: 
-   Hello There.
+.. danger:: Hello There.
+
+
 .. note:: This is a note admonition.
    This is the second line of the first paragraph.
 
