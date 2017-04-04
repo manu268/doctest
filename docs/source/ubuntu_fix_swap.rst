@@ -54,7 +54,11 @@ This is a heading
    - The note contains all indented body elements
      following.
    - It includes this bullet list.
-   
+
+.. code-block:: Python
+   def hello()
+      print "hello"
+       
    
 .. tip:: This is a note admonition.
    This is the second line of the first paragraph.
@@ -72,9 +76,6 @@ This is a heading
    - It includes this bullet list.
 
 
-.. code-block:: Python
-   def hello()
-      print "hello"
-      
+
    
    
