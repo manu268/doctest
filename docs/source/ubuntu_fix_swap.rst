@@ -2,7 +2,7 @@
 =================
 This is a heading
 =================
-*How to fix long boot time on ubuntu after moving swap partition?*
+*How to fix long boot time on ubuntu after moving swap?*
 
 
 .. danger:: 
