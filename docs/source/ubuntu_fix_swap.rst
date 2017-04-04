@@ -15,9 +15,9 @@ This is a heading
 .. note:: This is a note admonition.
    This is the second line of the first paragraph.
 
-   # The note contains all indented body elements
+   #. The note contains all indented body elements
      following.
-   # It includes this bullet list.
+   #. It includes this bullet list.
    
 .. warning:: This is a note admonition.
    This is the second line of the first paragraph.
@@ -70,7 +70,9 @@ This is a heading
    - The note contains all indented body elements
      following.
    - It includes this bullet list.
-.. code: python
+
+
+.. code: Python
    def hello()
       print "hello"
       
