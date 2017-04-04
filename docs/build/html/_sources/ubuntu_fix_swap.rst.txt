@@ -55,9 +55,11 @@ This is a heading
      following.
    - It includes this bullet list.
 
-.. code-block::Python
-   def hello()
-      print "hello"
+.. code-block:: python
+   
+   def hello():
+      print "It  is awesome"
+
        
    
 .. tip:: This is a note admonition.
