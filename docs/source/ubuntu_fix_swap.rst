@@ -70,5 +70,9 @@ This is a heading
    - The note contains all indented body elements
      following.
    - It includes this bullet list.
+.. code: python
+   def hello()
+      print "hello"
+      
    
    
