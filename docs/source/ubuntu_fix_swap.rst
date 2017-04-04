@@ -4,7 +4,7 @@ This is a heading
 =================
 *How to fix long boot time on ubuntu after moving swap partition?*::
 
-.. danger::
+.. danger:: 
    Beware killer rabbits!
    
 .. note:: This is a note admonition.
