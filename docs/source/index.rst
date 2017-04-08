@@ -11,11 +11,12 @@ Welcome to doctest's documentation!
    :caption: Contents:
    
    ubuntu_fix_swap
+   chapter1
 
 
 
 Modules
-===========================
+=======
 .. automodule:: sphinx
    :members:
    :undoc-members:
